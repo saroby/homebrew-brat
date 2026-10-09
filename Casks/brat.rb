@@ -1,6 +1,6 @@
 cask "brat" do
-  version "0.0.4"
-  sha256 "51a4aa41ccc1f8d6486355197b5f3e013796c32ba305ed0c7e034a64fefdacdb"
+  version "0.0.5"
+  sha256 "96de796951d85c0bcff3bbcf9c5de74cb0d54bd29166cdd242458fd3e0358bd4"
 
   url "https://github.com/saroby/homebrew-brat/releases/download/v#{version}/Brat-#{version}-arm64.dmg"
   name "Brat"
